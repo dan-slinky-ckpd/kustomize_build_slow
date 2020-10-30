@@ -9,4 +9,4 @@ echo "testing 3.8.2"
 time kustomize-3.8.2 build overlays/test > /dev/null
 echo
 echo "testing 3.8.5"
-time kustomize-3.8.2 build overlays/test > /dev/null
+time kustomize-3.8.5 build overlays/test > /dev/null
